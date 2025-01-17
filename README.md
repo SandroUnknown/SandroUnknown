@@ -5,7 +5,7 @@
 - 🌱 I’m **Junior AQA Java**
 - 📫 How to reach me:
 -
-- [<img src="readme/media/logo/Gmail.svg" width="16" height="16" alt="gmail"/>   gmail] sandrounknown1991@gmail.com
+- [<img src="media/logo/Gmail.svg" width="16" height="16" alt="gmail"/>   gmail] sandrounknown1991@gmail.com
 
 
 
