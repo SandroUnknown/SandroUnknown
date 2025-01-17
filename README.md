@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=34&fontAlign=15&fontSize=52&animation=twinkling&fontColor=FFFFDD)
 
 ### Hi there, I'm Alexander 👋
-
 - 🌱 I’m **Junior AQA Java**
+
+<br>
+  
 ### 📫 How to reach me:
 <a href="https://t.me/SandroUnknown"><img width="40px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
 <a href="mailto:SandroUnknown1991@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
 
+<br>
 
 ### Stack and tools
 <a href="https://www.jetbrains.com/idea"><img src="media/logo/Intelij_IDEA.svg" width="5.7%" height="5.7%" alt="Intellij IDEA"/></a>
