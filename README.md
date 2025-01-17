@@ -4,10 +4,9 @@
 
 - 🌱 I’m **Junior AQA Java**
 - 📫 How to reach me:
--
-- [<img src="media/logo/Gmail.svg" width="16" height="16" alt="gmail"/>   gmail] sandrounknown1991@gmail.com
-- 
-- <a href="mailto:sandrounknown1991@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
+<a href="https://t.me/SandroUnknown"><img width="40px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
+<a href="mailto:SandroUnknown1991@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
+
 
 
 
