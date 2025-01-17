@@ -4,6 +4,7 @@
 🌱 I started studying to become a **AQA Java** in 2024 and continue to do so to this day.
 
 <br>
+<br>
   
 ## How to reach me:
 <a href="https://t.me/SandroUnknown"><img width="50px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
@@ -12,7 +13,7 @@
 <br>
 
 ## Example of my project:
-### [Дипломный проект с API-, WEB- и Mobile-тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
+#### [Дипломный проект с API-, WEB- и Mobile-тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
 
 <br>
 
