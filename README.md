@@ -11,6 +11,11 @@
 
 <br>
 
+## Example of my project:
+### [Дипломный проект с UI, API, Mobile тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
+
+<br>
+
 ## What I use:
 <a href="https://www.jetbrains.com/idea"><img src="media/logo/Intelij_IDEA.svg" width="5.7%" height="5.7%" alt="Intellij IDEA"/></a>
 <a href="https://www.java.com"><img src="media/logo/Java.svg" width="5.7%" height="5.7%" alt="Java"/></a>
@@ -33,6 +38,14 @@
 
 ## Example of my project:
 ### [Дипломный проект с UI, API, Mobile тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
+
+<br>
+
+## My stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroUnknown&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroUnknown&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandroUnknown&theme=tokyonight)
+
 
 
 
