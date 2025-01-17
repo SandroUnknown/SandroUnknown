@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=34&fontAlign=15&fontSize=52&animation=twinkling&fontColor=FFFFDD)
 
 ### My name is Alexander 👋
-- 🌱 I’m **Junior AQA Java**
-- I started studying to become a **AQA Java** in 2024 and continue to do so to this day.
+🌱 I started studying to become a **AQA Java** in 2024 and continue to do so to this day.
 
 <br>
   
 ## How to reach me:
-<a href="https://t.me/SandroUnknown"><img width="40px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
-<a href="mailto:SandroUnknown1991@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
+<a href="https://t.me/SandroUnknown"><img width="50px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
+<a href="mailto:SandroUnknown1991@gmail.com"><img width="50px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
 
 <br>
 
