@@ -4,8 +4,8 @@
 
 - 🌱 I’m **Junior AQA Java**
 - 📫 How to reach me:
-- 
-<a href="https://t.me/SandroUnknown"><img width="35px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
+
+<a href="https://t.me/SandroUnknown"><img width="37px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
 <a href="mailto:SandroUnknown1991@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
 
 
