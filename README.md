@@ -1,16 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=15&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=15&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-
-<br>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=15&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-
-<br>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=15&fontSize=52&animation=twinkling&fontColor=EAF5D2)
+
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=15&fontSize=52&animation=twinkling&fontColor=FFFFFF)
 
 ### Hi there, I'm Alexander 👋
 
