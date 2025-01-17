@@ -2,7 +2,11 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=34&fontAlign=15&fontSize=52&animation=twinkling&fontColor=FFFFBB)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=34&fontAlign=15&fontSize=52&animation=twinkling&fontColor=FFFFCC)
+
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=34&fontAlign=15&fontSize=52&animation=twinkling&fontColor=FFFFDD)
 
 ### Hi there, I'm Alexander 👋
 
