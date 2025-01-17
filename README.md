@@ -37,9 +37,10 @@
 <br>
 
 ## My stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroUnknown&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroUnknown&theme=tokyonight) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandroUnknown&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandroUnknown&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroUnknown&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroUnknown&theme=blueberry)
+
 
 
 
