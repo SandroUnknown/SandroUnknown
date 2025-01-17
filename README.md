@@ -12,7 +12,7 @@
 <br>
 
 ## Example of my project:
-### [Дипломный проект с UI, API, Mobile тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
+### [Дипломный проект с API-, WEB- и Mobile-тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
 
 <br>
 
