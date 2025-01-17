@@ -3,7 +3,7 @@
 ### Hi there, I'm Alexander 👋
 
 - 🌱 I’m **Junior AQA Java**
-- 📫 How to reach me:
+### 📫 How to reach me:
 <a href="https://t.me/SandroUnknown"><img width="40px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
 <a href="mailto:SandroUnknown1991@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
 
