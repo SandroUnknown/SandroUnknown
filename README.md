@@ -36,11 +36,6 @@
 
 <br>
 
-## Example of my project:
-### [Дипломный проект с UI, API, Mobile тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
-
-<br>
-
 ## My stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandroUnknown&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandroUnknown&theme=tokyonight) 
