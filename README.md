@@ -5,13 +5,13 @@
 
 <br>
   
-### How to reach me:
+## How to reach me:
 <a href="https://t.me/SandroUnknown"><img width="40px" alt="Telegram" title="Telegram" src="media/logo/Telegram.svg"/></a>
 <a href="mailto:SandroUnknown1991@gmail.com"><img width="40px" alt="Write me Email" title="Gmail" src="media/logo/Gmail.svg"/></a>
 
 <br>
 
-### What I use:
+## What I use:
 <a href="https://www.jetbrains.com/idea"><img src="media/logo/Intelij_IDEA.svg" width="5.7%" height="5.7%" alt="Intellij IDEA"/></a>
 <a href="https://www.java.com"><img src="media/logo/Java.svg" width="5.7%" height="5.7%" alt="Java"/></a>
 <a href="https://junit.org/junit5"><img src="media/logo/JUnit5.svg" width="5.7%" height="5.7%" alt="JUnit 5"/></a>
@@ -28,6 +28,11 @@
 <a href="https://www.atlassian.com/software/jira"><img src="media/logo/Jira.svg" width="5.7%" height="5.7%" alt="Jira"/></a>
 <a href="https://github.com"><img src="media/logo/Github.svg" width="5.7%" height="5.7%" alt="Github"/></a>
 <a href="https://telegram.org/"><img src="media/logo/Telegram.svg" width="5.7%" height="5.7%" alt="Telegram"/></a>
+
+<br>
+
+## Example of my project:
+### [Дипломный проект с UI, API, Mobile тестами](https://github.com/SandroUnknown/QA-Start-graduate-work-todoist)
 
 
 
