@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=160&section=header&text=Hi%20there!&fontAlignY=34&fontAlign=15&fontSize=52&animation=twinkling&fontColor=FFFFDD)
 
-### My name is Alexander 👋
-🌱 I started studying to become a **AQA Java** in 2024 and continue to do so to this day.
+### 👋 My name is Alexander
+### 🌱 I started studying to become a **AQA Java** in 2024 and continue to do so to this day.
 
 <br>
 <br>
