@@ -2,6 +2,13 @@
 
 ### Hi there, I'm Alexander 👋
 
+- 🌱 I’m **Junior AQA Java**
+- 📫 How to reach me:
+-
+- [<img src="readme/media/logo/Gmail.svg" width="16" height="16" alt="gmail"/>   gmail] sandrounknown1991@gmail.com
+
+
+
 
 <!--
 **SandroUnknown/SandroUnknown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
