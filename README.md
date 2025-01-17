@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=15&fontSize=52&animation=twinkling&fontColor=EAF5D2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=15&fontSize=52&animation=twinkling&fontColor=EAF5D2)
 
 ### Hi there, I'm Alexander 👋
 
